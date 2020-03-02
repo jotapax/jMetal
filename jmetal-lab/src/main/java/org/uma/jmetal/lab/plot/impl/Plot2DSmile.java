@@ -35,7 +35,6 @@ public class Plot2DSmile implements PlotFront {
       PlotCanvas canvas = ScatterPlot.plot(data);
       canvas.setTitle(plotTitle);
       add(canvas);
-
     }
   }
 
